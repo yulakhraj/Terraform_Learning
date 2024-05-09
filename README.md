@@ -1,4 +1,3 @@
-### Terraform Concepts:-
 ## What is Terraform?
 - Terraform is an open-source infrastructure as a code tool created by HashiCorp, that lets you provision, build, change, and version cloud and on-prem resources. It lets you define both Cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
 
