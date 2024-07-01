@@ -15,3 +15,11 @@ terraform refresh
 terraform show
 terraform console
 terraform fmt
+
+
+ssh-keygen -t rsa
+
+terraform taint aws_security_group.allow_tls      ( delete and re-create )
+
+
+ssh -i abc-key ubuntu@
